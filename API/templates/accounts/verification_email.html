@@ -1,0 +1,15 @@
+{% autoescape off %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Email Verification</title>
+</head>
+<body>
+    <p>Hi {{ user.first_name }},</p>
+    <h4>Your activation code is:</h4>
+    <p style="font-size: 36px; font-weight: bold; text-align: center; margin: 20px 0; color: #2c3e50;">
+        {{ code }}
+    </p>
+</body>
+</html>
+{% endautoescape %}
