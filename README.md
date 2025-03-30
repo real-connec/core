@@ -1,6 +1,6 @@
 # RealConnec
 
-![RealConnec Logo](link-to-logo-image)
+![RealConnec Logo](https://drive.google.com/uc?export=view&id=1xN8uLtLK4xuIjQrdrQib8SgKu2ezGy5v)
 
 **RealConnec** is an open-source, self-hosted platform for real-time video, audio, and chat communication. Designed for privacy, scalability, and enterprise-grade security, RealConnec enables seamless collaboration without reliance on third-party services.
 
@@ -33,6 +33,7 @@
 - Redis
 - PostgreSQL
 - Keycloak instance
+- Flutter SDK
 
 ### Backend Setup
 ```sh
